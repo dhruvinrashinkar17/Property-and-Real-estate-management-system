@@ -59,7 +59,7 @@ const TestimonialSection = () => {
         </div>
       </div>
     </section>
-  );
+  );//no real users, all fiction
 };
 
 export default TestimonialSection;
